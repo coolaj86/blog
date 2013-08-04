@@ -1,0 +1,3 @@
+[submodule "twitter-v1"]
+	path = twitter-v1
+	url = git@github.com:ruhoh/twitter.git
